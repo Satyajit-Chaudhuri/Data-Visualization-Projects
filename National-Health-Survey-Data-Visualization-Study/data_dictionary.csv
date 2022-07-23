@@ -1,0 +1,27 @@
+CODE,Description
+STATE,States/UTs
+FEMALE,Number of Women age 15-49 years interviewed
+MALE,Number of Men age 15-54 years interviewed
+ELECTRICITY,Population living in households with electricity (%)
+CLEAN_WATER,Population living in households with an improved drinking-water source1 (%)
+SANITATION,Population living in households that use an improved sanitation facility2 (%)
+LIT_F,Women (age 15-49) who are literate4 (%)
+LIT_M,Men (age 15-49) who are literate4 (%)
+BMI_F,Women (age 15-49 years) whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%)
+BMI_M,Men (age 15-49 years) whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2) (%)
+AN_F,All women age 15-49 years who are anaemic22 (%)
+AN_M,Men age 15-49 years who are anaemic (<13.0 g/dl)22 (%)
+BS_F,Women age 15 years and above wih very high (>160 mg/dl) Blood sugar level23 (%)
+BS_M,Men (age 15 years and above wih  very high (>160 mg/dl) Blood sugar level23 (%)
+BP_F,Women age 15 years and above wih Elevated blood pressure (Systolic 140 mm of Hg and/or Diastolic 90 mm of Hg) or taking medicine to control blood pressure (%)
+BP_M,Men age 15 years and above wih Elevated blood pressure (Systolic 140 mm of Hg and/or Diastolic 90 mm of Hg) or taking medicine to control blood pressure (%)
+HIV_KNOW_F,Women (age 15-49 years) who have comprehensive knowledge24 of HIV/AIDS (%)
+HIV_KNOW_M,Men (age 15-49 years) who have comprehensive knowledge24 of HIV/AIDS (%)
+PAID_F,Women (age 15-49 years) who worked in the last 12 months and were paid in cash (%)
+LANDOWNER_F,Women (age 15-49 years) owning a house and/or land (alone or jointly with others) (%)
+BANKAC_F,Women (age 15-49 years) having a bank or savings account that they themselves use (%)
+MOBILE_F,Women (age 15-49 years) having a mobile phone that they themselves use (%)
+TOB_F,Women age 15 years and above who use any kind of tobacco (%)
+TOB_M,Men age 15 years and above who use any kind of tobacco (%)
+ALC_F,Women age 15 years and above who consume alcohol (%)
+ALC_M,Men age 15 years and above who consume alcohol (%)
