@@ -11,3 +11,4 @@ The article can be accessed here: https://fivethirtyeight.com/features/fandango-
 The following builds up upon that data.
 Here the modified datasets have been used to do the Exploratory Data Analysis.
 
+**The plotly graphs may take some time to load. Please bear with me!**
